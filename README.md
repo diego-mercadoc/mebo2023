@@ -23,29 +23,28 @@ En este repositorio encontrarás las notas para el curso de Métodos Estadístic
 > Tema 5. Aplicación: regresión Bayesiana.
   - Modelado probabilístico de parámetros en la regresión lineal.
   
+`Módulo 2.` **Modelos de regresión lineal**
 
-`Módulo 2.` **Variables latentes, Algoritmo de maximización de la esperanza e inferencia aproximada**
-
-> Tema 6. Modelos con variables latentes - Repaso de algoritmo K-Means.
-  - ¿Qué es una variable latente?, ¿Para qué incluir variables latentes?
-  - Hard clustering: repaso de algoritmo K-Means.
-  - Soft clustering: clustering probabilístico, GMM (modelo de mezclas Gaussianas), entrenamiento de GMM.
+> Tema 6. Modelos de regresión lineal
+  - ¿Cómo describimos modelos estadísticamente?
+  - Modelo Gaussiano de altura de un grupo de personas.
+  - Predicción lineal.
+  - Curvas a partir de líneas.
   
-> Tema 7. Algoritmo de maximización de la esperanza.
-  - Divergencia de Küllback-Leibler, desigualdad de Jensen.
-  - Algoritmo de maximización de la esperanza.
-  - Explicando K-Means y PCA desde una perspectiva probabilística.
+> Tema 7. Asociaciones falsas en presencia de varias variables.
+  - Asociaciones falsas.
+  - Relaciones enmascaradas.
+  - Variables categóricas.
   
-> Tema 8. Inferencia variacional.
-  - ¿Por qué inferencia aproximada?
-  - Aproximación de campo media.
-  - Maximización de la esperanza e inferencia variacional.
+> Tema 8. Causalidad en modelos de regresión.
+  - Multicolinealidad.
+  - Bias de post-tratamiento.
+  - Bias de colision.
   
-> Tema 9. Asignación de Dirichlet latente.
-  - Modelamiento de tópicos.
-  - Distribución de Dirichlet.
-  - Asignación de Dirichlet latente (LDA).
-  - Extensiones de LDA.
+> Tema 9. Overfitting y underfitting en modelos de regresión.
+  - ¿Qué es overfitting y underfitting?
+  - Regularización.
+  - Predicción de `accuracy` predictiva.
   
 `Módulo 3.` **Markov Chain Montecarlo (MCMC)**
 
@@ -57,16 +56,18 @@ En este repositorio encontrarás las notas para el curso de Métodos Estadístic
 > Tema 11. Muestreo de Gibbs y algoritmo de Metropolis-Hastings.
   - Muestreo de Gibbs. Ejemplo.
   - Algoritmo de Metropolis-Hastings. Ejemplo.
-  - MCMC para LDA.
+  - Hamiltoninan Montecarlo.
   
-`Módulo 4.` **Procesos Gaussianos y Optimización Bayesiana**
+`Módulo 4.` **Modelos lineales generalizados**
 
-> Tema 12. Procesos Gaussianos.
-  - Métodos no paramétricos.
-  - Procesos Gaussianos.
+> Tema 12. Entropía y modelos lineales generalizados.
+  - Máxima entropía.
+  - Modelos lineales generalizados.
   
-> Tema 13. Optimización Bayesiana.
-  - Optimización Bayesiana.
-  - Aplicaciones.
+> Tema 13. Modelos con `outputs` enteros.
+  - Regresión binomial.
+  - Regresión de poisson.
+  - Modelos multinomiales.
+
 
   
