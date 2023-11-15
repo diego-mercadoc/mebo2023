@@ -23,40 +23,40 @@ En este repositorio encontrarás las notas para el curso de Métodos Estadístic
 > Tema 5. Aplicación: regresión Bayesiana.
   - Modelado probabilístico de parámetros en la regresión lineal.
   
-`Módulo 2.` **Modelos de regresión lineal**
+`Módulo 2.` **Markov Chain Montecarlo (MCMC)**
 
-> Tema 6. Modelos de regresión lineal
+> Tema 6. Estimación Montecarlo y cadenas de Markov.
+  - Muestreo de distribuciones univariadas.
+  - Estimación Montecarlo.
+  - Cadenas de Markov.
+  
+> Tema 7. Muestreo de Gibbs y algoritmo de Metropolis-Hastings.
+  - Muestreo de Gibbs. Ejemplo.
+  - Algoritmo de Metropolis-Hastings. Ejemplo.
+  - Hamiltoninan Montecarlo.
+
+`Módulo 3.` **Modelos de regresión lineal**
+
+> Tema 8. Modelos de regresión lineal
   - ¿Cómo describimos modelos estadísticamente?
   - Modelo Gaussiano de altura de un grupo de personas.
   - Predicción lineal.
   - Curvas a partir de líneas.
   
-> Tema 7. Asociaciones falsas en presencia de varias variables.
+> Tema 9. Asociaciones falsas en presencia de varias variables.
   - Asociaciones falsas.
   - Relaciones enmascaradas.
   - Variables categóricas.
   
-> Tema 8. Causalidad en modelos de regresión.
+> Tema 10. Causalidad en modelos de regresión.
   - Multicolinealidad.
   - Bias de post-tratamiento.
   - Bias de colision.
   
-> Tema 9. Overfitting y underfitting en modelos de regresión.
+> Tema 11. Overfitting y underfitting en modelos de regresión.
   - ¿Qué es overfitting y underfitting?
   - Regularización.
   - Predicción de `accuracy` predictiva.
-  
-`Módulo 3.` **Markov Chain Montecarlo (MCMC)**
-
-> Tema 10. Estimación Montecarlo y cadenas de Markov.
-  - Muestreo de distribuciones univariadas.
-  - Estimación Montecarlo.
-  - Cadenas de Markov.
-  
-> Tema 11. Muestreo de Gibbs y algoritmo de Metropolis-Hastings.
-  - Muestreo de Gibbs. Ejemplo.
-  - Algoritmo de Metropolis-Hastings. Ejemplo.
-  - Hamiltoninan Montecarlo.
   
 `Módulo 4.` **Modelos lineales generalizados**
 
